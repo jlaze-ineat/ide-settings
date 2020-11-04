@@ -4,8 +4,10 @@
       <mapping ext="bson" type="JSON" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="gems-last-release-ok" type="PLAIN_TEXT" />
+      <mapping pattern="titi" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern="toto" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
